@@ -1,0 +1,1 @@
+Destinado à inserção de cards no trello
